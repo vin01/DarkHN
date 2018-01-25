@@ -1,0 +1,57 @@
+body {
+  background-color: #111;
+  font
+}
+
+.storylink {
+  color: #eee !important;
+  font-size: 13px;
+}
+
+.comment {
+  font-size: 13px !important;
+}
+
+table {
+  padding: 8px;
+  background-color: #111;
+}
+
+
+.pagetop {
+  background-color: #eee;
+  border-radius: 2px;
+  padding: 3px;
+}
+
+
+p {
+  color: #eee;
+  font-size: 13px;
+}
+
+.pagetop > a {
+  padding-left: 5px;
+}
+
+
+span {
+  color: #eee !important;
+}
+
+.comment a {
+  color: #aaa !important;
+}
+
+p a {
+  color: #aaa !important;
+}
+
+.morelink, .yclinks a {
+  color: #aaa !important;
+}
+
+.topsel {
+  background: #111;
+  padding: 5px;
+}
